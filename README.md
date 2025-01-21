@@ -11,13 +11,8 @@ Time Guards
 
 Speedrun, Pixel, Platformer, [(WebGL) üzerinden oynayabilirsiniz](https://play.unity.com/en/games/192fbe56-6826-4dff-ada9-d010c83667a0/cosmic-rush)
 
-## Takım Elemanları
-
-- Gülsüm Kırvar: Product Owner
-- Gülsüm Kırvar: Scrum Master
-- Hazar Çakar: Developer
 - Gülizar Rabia Çakan: Developer
-- Gamze Nur Erdem: Developer
+
 
 ## Ürün İsmi
 
