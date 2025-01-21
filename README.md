@@ -41,8 +41,6 @@ Cosmic Rush
 
 - **Puan tamamlama mantığı**: Trello tablosunda tamamlanan her görev için 2 puan geçerli olacaktır. Toplamda proje boyunca tamamlanması gereken 30 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 10 ile başlaması gerektiğine karar verildi.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği aşağıda ekran görüntüsü olarak paylaşılmaktadır.
-
   - <details>
     <summary><strong>📸 Daily Scrum ekran görüntüleri için tıkla!</strong></summary>
 
