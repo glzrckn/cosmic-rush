@@ -39,14 +39,7 @@ Cosmic Rush
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
 
-- **Puan tamamlama mantığı**: Trello tablosunda tamamlanan her görev için 2 puan geçerli olacaktır. Toplamda proje boyunca tamamlanması gereken 30 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 10 ile başlaması gerektiğine karar verildi.
-
-
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/9eb5a17b-7028-457d-a3e3-27da9e948e30" width="45%">
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/fb29e23b-dfcd-48b2-bb4f-e6d63d3b62b8" width="45%">
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/17576e3a-a1b6-466f-9acc-2d02e56a09c0" width="45%">
-    <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/a80ae811-c363-4a6e-b7cd-190f03e856a3" width="45%">
-  </details>
+    
 
   - <details>
     <summary><strong>📸 Sprint Board ekran görüntüleri için tıkla!</strong></summary>
