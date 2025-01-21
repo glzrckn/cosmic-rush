@@ -41,8 +41,6 @@ Cosmic Rush
 
 - **Puan tamamlama mantığı**: Trello tablosunda tamamlanan her görev için 2 puan geçerli olacaktır. Toplamda proje boyunca tamamlanması gereken 30 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 10 ile başlaması gerektiğine karar verildi.
 
-  - <details>
-    <summary><strong>📸 Daily Scrum ekran görüntüleri için tıkla!</strong></summary>
 
     <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/9eb5a17b-7028-457d-a3e3-27da9e948e30" width="45%">
     <img src="https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/fb29e23b-dfcd-48b2-bb4f-e6d63d3b62b8" width="45%">
